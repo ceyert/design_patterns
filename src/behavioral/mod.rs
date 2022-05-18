@@ -1,0 +1,11 @@
+pub mod templete;
+pub mod strategy;
+pub mod state;
+pub mod observer;
+pub mod null_object;
+pub mod memento;
+pub mod mediator;
+pub mod iter;
+pub mod interpreter;
+pub mod command;
+pub mod chain_of_responsibility;
